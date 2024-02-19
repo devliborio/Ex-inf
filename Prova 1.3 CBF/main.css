@@ -1,0 +1,26 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+#container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.g-4{
+    border: 1px solid;
+    margin-left: 10px;
+}
+
+.g-4 p{
+    margin-left: 10px;
+}
+
+.g-4 h3{    
+    margin-left: 10px;
+}
